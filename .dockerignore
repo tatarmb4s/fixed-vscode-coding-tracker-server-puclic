@@ -6,6 +6,7 @@
 *.md
 screenshots/
 docs/
+coolifySettings/
 
 # Development files
 .eslintrc.json
