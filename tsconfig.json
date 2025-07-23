@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "test/temp",
+
+		"allowJs": true,
+		"checkJs": true,
+
+		"target": "es2015"
+	},
+	"include": [
+		"lib/**/*.js",
+		"app.js"
+	]
+}
