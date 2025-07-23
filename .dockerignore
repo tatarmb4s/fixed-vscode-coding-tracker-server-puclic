@@ -8,6 +8,8 @@ screenshots/
 docs/
 coolifySettings/
 
+*.vsix
+
 # Development files
 .eslintrc.json
 .editorconfig
